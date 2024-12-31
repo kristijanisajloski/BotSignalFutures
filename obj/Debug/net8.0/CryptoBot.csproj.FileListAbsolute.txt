@@ -39,3 +39,4 @@
 /Users/kristijan/Desktop/CryptoBot/CryptoBot/bin/Debug/net8.0/runtimes/win-arm64/native/LdaNative.dll
 /Users/kristijan/Desktop/CryptoBot/CryptoBot/bin/Debug/net8.0/runtimes/win-x64/native/LdaNative.dll
 /Users/kristijan/Desktop/CryptoBot/CryptoBot/bin/Debug/net8.0/runtimes/win-x86/native/LdaNative.dll
+/Users/kristijan/Desktop/CryptoBot/CryptoBot/obj/Debug/net8.0/CryptoBot.sourcelink.json
